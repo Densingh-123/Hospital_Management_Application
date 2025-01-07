@@ -78,7 +78,8 @@ The app uses an SQL-based database for storing all the data related to users, or
 
 ### Sample Data Structure
 
-![1](https://github.com/user-attachments/assets/7336c08f-d2d1-4643-9dc7-4093f64437b8)
+![Screenshot 2025-01-07 181348](https://github.com/user-attachments/assets/4fc87424-425e-4ea8-af03-0d7661e026bd)
+
 
 
 
