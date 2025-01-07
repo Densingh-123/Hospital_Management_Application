@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Black and White for Glassmorphism -->
+    <color name="glass_black">#80000000</color> <!-- Black with 50% opacity -->
+    <color name="glass_white">#80FFFFFF</color> <!-- White with 50% opacity -->
+
+    <!-- Shades of Blue -->
+    <color name="blue_1">#E3F2FD</color> <!-- Lightest Blue -->
+    <color name="blue_2">#BBDEFB</color>
+    <color name="blue_3">#90CAF9</color>
+    <color name="blue_4">#64B5F6</color>
+    <color name="blue_5">#42A5F5</color> <!-- Primary Blue -->
+    <color name="blue_6">#2196F3</color>
+    <color name="blue_7">#1E88E5</color>
+    <color name="blue_8">#1976D2</color>
+    <color name="blue_9">#1565C0</color>
+    <color name="blue_10">#0D47A1</color> <!-- Darkest Blue -->
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+
+</resources>
